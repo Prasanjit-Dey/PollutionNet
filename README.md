@@ -7,3 +7,4 @@
 3. The **Results** file contains the PollutionNet code for validating the model's accuracy using different percentages of the input dataset (10% to 100%).
 
 4. The **Validation_Models** file contains the code for SOTA methods.
+5. This paper is accepted in **Theoretical and Applied Climatology**
